@@ -6,8 +6,7 @@ scalaVersion := "2.11.6"
 
 pomExtra :=
   <scm>
-    <url>git@github.com:scommon/sbt-plugin-simple.git</url>
-    <connection>scm:git:git@github.com:scommon/sbt-plugin-simple.git</connection>
+    <url>https://github.com/sidahmedbenkhaoua/road-traffic-server.git</url>
   </scm>
     <licenses>
       <license>
